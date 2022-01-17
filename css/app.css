@@ -1,4 +1,4 @@
-﻿:root {
+:root {
     --main-bg-color: coral;
 }
 
@@ -212,10 +212,10 @@ body {
     }
 
     .sky {
-        margin-left: -9%;
-        margin-top: -3%;
-        width: 109%;
-        height: 103%;
+        margin-left: -8%;
+        margin-top: 12%;
+        width: 108%;
+        height: 88%;
         position: absolute;
         background-image: url(../images/1Mapa.png);
         background-size: cover;
@@ -241,6 +241,7 @@ body {
         margin-top: 1%;
     }
 }
+
 
 @media only screen and (max-width: 320px) {
     .game-container {
