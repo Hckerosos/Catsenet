@@ -1,0 +1,12 @@
+﻿@if (ModeloBubble.visibilidad)
+{
+    <div class="@ModeloBubble.estadoBubble">
+        <div class="@ModeloBubble.estadoDado"></div>
+    </div>
+
+}
+
+@code {
+
+    [Parameter] public BubbleModel ModeloBubble { get; set; }
+}

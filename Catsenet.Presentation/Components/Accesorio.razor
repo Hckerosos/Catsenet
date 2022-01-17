@@ -1,0 +1,10 @@
+﻿@if (Modelaccesorio.visibilidad)
+{
+    <div class="@Modelaccesorio.estado" style="@_style"/>
+}
+
+@code {
+
+        [Parameter] public AccesorioModel Modelaccesorio { get; set; }
+        string _style => $"bottom: {Modelaccesorio.vertical}%;left: {Modelaccesorio.horizontal}%;";
+}
