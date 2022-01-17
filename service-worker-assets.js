@@ -229,7 +229,7 @@
       "url": "images\/Seth\/Seth.png"
     },
     {
-      "hash": "sha256-57bk1XZe48rnOesdsjn0KekqoJc5LZIXHHn+CNcop5Y=",
+      "hash": "sha256-NhZa75ecvwwpxvSdC5TUOYCTPR7h0teuCtA20vRZHrY=",
       "url": "index.html"
     },
     {
@@ -333,7 +333,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-Oq2r45qJEMf1qmsRBD4mW0i4zH8iWqim89e8q4gV5eo=",
+      "hash": "sha256-hBLaCPacCFDykXpOrQc31yjsHVB+C2Wt4Sn9zrgKIEA=",
       "url": "_framework\/Catsenet.Presentation.dll"
     },
     {
@@ -409,7 +409,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-0DXyTGiUl9vGH0JM3yLNOv6OSlDMHq2cNIUvLf0+zEc=",
+      "hash": "sha256-ZwKVUKw4PCDWCJM6xCreYk1xJ8ZztQhevLZ1XzlK5Rg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -417,5 +417,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "9oxd31mn"
+  "version": "n7ASxe2B"
 };
