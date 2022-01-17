@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\Personales\\BlazorApps\\Catsenet\\Catsenet\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj": {}
+    "C:\\Proyectos\\Personales\\BlazorApps\\Casenet_Code\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\Personales\\BlazorApps\\Catsenet\\Catsenet\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj": {
+    "C:\\Proyectos\\Personales\\BlazorApps\\Casenet_Code\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\Personales\\BlazorApps\\Catsenet\\Catsenet\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Personales\\BlazorApps\\Casenet_Code\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj",
         "projectName": "Catsenet.Presentation",
-        "projectPath": "C:\\Proyectos\\Personales\\BlazorApps\\Catsenet\\Catsenet\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj",
+        "projectPath": "C:\\Proyectos\\Personales\\BlazorApps\\Casenet_Code\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj",
         "packagesPath": "C:\\Users\\LENOVO S145-14AST\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\Personales\\BlazorApps\\Catsenet\\Catsenet\\Catsenet\\Catsenet.Presentation\\obj\\",
+        "outputPath": "C:\\Proyectos\\Personales\\BlazorApps\\Casenet_Code\\Catsenet\\Catsenet.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

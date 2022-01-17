@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EijBtx3kzGqjiJqnlcFlNJEe8u2hn4w1/iLfbDKvPqBvlDiQeT5kTuCSMsDqab9pfC7BvTQwaeI9GLHZaWaJfA==",
+  "dgSpecHash": "+RtaC+6F2PzJtEAKTYzXrXY6FIe1OQKmtYSGiCzoR7k525uo69GUOrxh06jBvVqm0liazl48RbqUeo8NzMdvUg==",
   "success": true,
-  "projectFilePath": "C:\\Proyectos\\Personales\\BlazorApps\\Catsenet\\Catsenet\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj",
+  "projectFilePath": "C:\\Proyectos\\Personales\\BlazorApps\\Casenet_Code\\Catsenet\\Catsenet.Presentation\\Catsenet.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO S145-14AST\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.11\\microsoft.aspnetcore.authorization.5.0.11.nupkg.sha512",
     "C:\\Users\\LENOVO S145-14AST\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.11\\microsoft.aspnetcore.components.5.0.11.nupkg.sha512",

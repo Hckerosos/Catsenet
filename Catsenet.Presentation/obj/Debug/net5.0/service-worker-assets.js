@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-4Hn4REi\/puPCdbvBDRdZDpQT8po7wn7ac4Jr5BoXE7E=",
+      "hash": "sha256-wLKhxLQiz0LlNRMerYQd7v\/siM3+7iFQvjVXYOpp\/18=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -785,11 +785,11 @@
       "url": "_framework\/dotnet.5.0.11.js"
     },
     {
-      "hash": "sha256-rUG1Lol52af3ZAOHo+1EZ8U5EswlPcIFjGF5BPLidL0=",
+      "hash": "sha256-oRoxRHxVfCjuLTIKId7avd2YlUHq7Zf+3QYC1UQWBCg=",
       "url": "_framework\/Catsenet.Presentation.dll"
     },
     {
-      "hash": "sha256-5LqXFzD9t0GhXrwNWFPkVhWFh52ljuc7hSTZD+m6FRM=",
+      "hash": "sha256-5gZLY16E1D5gNyO5c8OeJ5HvCX5lu8YhYdXQgi8w+3w=",
       "url": "_framework\/Catsenet.Presentation.pdb"
     },
     {
@@ -1825,5 +1825,5 @@
       "url": "Catsenet.Presentation.bundle.scp.css"
     }
   ],
-  "version": "NSYjvzed"
+  "version": "k9ABTYkj"
 };

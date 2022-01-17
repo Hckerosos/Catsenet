@@ -1,4 +1,4 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Proyectos\Personales\BlazorApps\Catsenet\Catsenet\Catsenet\Catsenet.Presentation\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Proyectos\Personales\BlazorApps\Catsenet\Catsenet\Catsenet\Catsenet.Presentation\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Proyectos\Personales\BlazorApps\Casenet_Code\Catsenet\Catsenet.Presentation\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Proyectos\Personales\BlazorApps\Casenet_Code\Catsenet\Catsenet.Presentation\obj\Debug\net5.0\scopedcss\bundle\" />
 </StaticWebAssets>
