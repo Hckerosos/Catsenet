@@ -20,3 +20,7 @@ El personaje que caiga en la casilla azul se le concederá el poder el Dios RA p
 ![Combo](https://user-images.githubusercontent.com/33797747/149694519-67cfe97c-92b6-49fd-ad0e-360019b99694.PNG)
 ![Pierde](https://user-images.githubusercontent.com/33797747/149694698-574bdfaf-7709-4f68-9b53-b3fa21a77935.PNG)
 ![Gana](https://user-images.githubusercontent.com/33797747/149694771-a63685a6-7afa-4b7d-b7f0-765a4ada7eb9.PNG)
+
+# Créditos
+## Bryan Vera | pveconexo@gmail.com | 3223051627
+### https://www.sites.google.com/view/bryanvera
