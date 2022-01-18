@@ -215,10 +215,9 @@ body {
     }
 
     .sky {
-        margin-top: 10%;
-        margin-left: -9%;
-        width: 119%;
-        height: 89%;
+        margin-top: 19%;
+        width: 102%;
+        height: 79%;
         position: absolute;
         background-image: url(../images/1Mapa.png);
         background-size: cover;
