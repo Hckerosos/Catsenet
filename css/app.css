@@ -57,7 +57,7 @@ body {
 
     .sky {
         margin-left: 32%;
-        width: 44%;
+        width: 33%;
         height: 100%;
         position: absolute;
         background-image: url(../images/1Mapa.png);
@@ -94,8 +94,8 @@ body {
 
     .sky {
         margin-left: 32%;
-        width: 38%;
-        height: 100%;
+        width: 43%;
+        height: 99%;
         position: absolute;
         background-image: url(../images/1Mapa.png);
         background-size: cover;
