@@ -13,7 +13,7 @@ El personaje que caiga en la casilla verde se le concederá una jugada extra.
 El personaje que caiga en la casilla azul se le concederá el poder el Dios RA para devolver al enemigo a la casilla de inicio.
 
 # Previsualización 
-### https://hckerosos.github.io/Catsenet/
+### https://codesoftwarembison.github.io/Catsenet/
 
 # Imagenes del juego
 ![Inicio](https://user-images.githubusercontent.com/33797747/149694201-692198d7-a6ac-4184-9c0f-a67ebcd13891.png)
