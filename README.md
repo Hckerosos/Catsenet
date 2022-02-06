@@ -1,6 +1,5 @@
 # Catsenet
-Proyecto web el cual fue desarrollado con el fin de explorar todo el potencial que nos proporciona blazor al momento de crear aplicaciones. 
-Eljuego fue inspirado en el juego egipcio senet, montado sobre blazor (aplicación progresiva) webassembly y c#.
+Proyecto web desarrollado sobre .net 5, inspirado en el juego egipcio senet, se hace uso de la tecnologia blazor web assambly (aplicación progresiva), Bootstrap,CSS3 , C#, se implementan conceptos de  asincronisidad y programación multihilo. 
 
 # ¿En que consiste el juego?
 Es muy sencillo de jugar, con un simple clik del ratón en cualquier parte de la pantalla del juego obtendrás un número ramdon de dado con el cual tu personaje se moverá por cada las casillas del tablero para ganar a tu oponente y llegar a la meta.
